@@ -29,13 +29,15 @@
 ### 1. Git 저장소 초기화
 
 ```bash
-`git init`
+git init
+```
 * 새로운 Git 저장소를 초기화합니다.   
 
 ### 2. 파일 추가 및 커밋   
 ```bash
-`git add <파일명>`
-`git commit -m "첫 번째 커밋"`
+git add <파일명>
+git commit -m "첫 번째 커밋"
+```
 * 스테이징 영역에 파일을 추가하고, 커밋을 생성합니다.   
 
 ## GitHub 사용
@@ -43,13 +45,14 @@
 * GitHub는 Git을 기반으로 한 협업 플랫폼입니다. 
 * 다음단계를 통해 원격 저장소를 사용할 수 있습니다:
 
-* 1. **GitHub 계정 생성**
-* 2. **새로운 리포지토리 생성**
-* 3. **원격 저장소 연결:**
+1. **GitHub 계정 생성**
+2. **새로운 리포지토리 생성**
+3. **원격 저장소 연결:**
 
 ```bash
-`git remote add origin <GitHub URL 저장소>`
-`git push origin main`
+git remote add origin <GitHub URL 저장소>
+git push origin main
+```
 
 ## 추가 리소스
 
