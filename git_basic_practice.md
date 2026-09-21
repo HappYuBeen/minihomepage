@@ -55,6 +55,8 @@ git push origin main
 ```
 ![Git 로고](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
+---
+
 ## 추가 리소스
 
 * Git에 대해 더 알고 싶다면, [Git 공식 문서](https://git-scm.com/doc)를 확인하세요.
