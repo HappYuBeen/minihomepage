@@ -53,6 +53,7 @@ git commit -m "첫 번째 커밋"
 git remote add origin <GitHub URL 저장소>
 git push origin main
 ```
+![Git 로고](https://git-scm.com/images/logos/downloads/Git-Logo-2Color.png)
 
 ## 추가 리소스
 
